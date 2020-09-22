@@ -1,0 +1,9 @@
+# standard ignores
+node_modules
+npm-debug.log
+.DS_Store
+.vscode
+
+# Bundler
+.cache/
+dist/
